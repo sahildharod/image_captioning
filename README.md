@@ -1,4 +1,4 @@
-# image_captioning
+# Image Captioning Using Transformers
 Image Captioning using Deep Learning: 
 
 • Developed an image captioning system based on the encoder-decoder model using the Transformer architecture
