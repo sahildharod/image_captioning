@@ -1,4 +1,4 @@
-# Image Captioning Using Transformers
+## Image Captioning Using Transformers
 Image Captioning using Deep Learning: 
 
 • Developed an image captioning system based on the encoder-decoder model using the Transformer architecture
@@ -12,3 +12,5 @@ implemented the decoder’s key components from scratch, leveraging TensorFlow�
 evaluated the performance by employing the widely used BLEU metric, obtaining a BLUE-2 score of 0.34
 
 Dataset : https://www.kaggle.com/datasets/adityajn105/flickr8k
+
+The main aim of this project was to gain proficieny in Python as well understanding the working of the transformer architecture by implementing it from scratch using Tensorflow
