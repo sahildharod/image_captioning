@@ -13,4 +13,4 @@ evaluated the performance by employing the widely used BLEU metric, obtaining a 
 
 Dataset : https://www.kaggle.com/datasets/adityajn105/flickr8k
 
-The main aim of this project was to gain proficieny in Python as well understand the working of the transformer architecture by implementing it from scratch using Tensorflow
+The main aim of this project was to gain proficieny in Python as well understand the working of the widely used transformer architecture by implementing it from scratch using Tensorflow
